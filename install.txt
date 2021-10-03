@@ -1,0 +1,10 @@
+# Installing
+
+Fedora was installed quite normaly.
+Inside the installer the settings where mostly left to their defaults.
+The disk encryption was selected, but this setting only encrypts the root partition of the disk, not boot.
+
+After the installation the disk was splitted into three partitions. *vda1* is the ESP partition.
+The second partition was the boot partition that holds the kernel/initramfs files.
+
+
