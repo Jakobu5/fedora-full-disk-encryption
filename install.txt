@@ -8,3 +8,4 @@ After the installation the disk was splitted into three partitions. *vda1* is th
 The second partition was the boot partition that holds the kernel/initramfs files.
 
 
+Check futhrt implementation of seucre boot in fedora
